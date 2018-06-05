@@ -1,5 +1,5 @@
-# Begin Commands With DFM, then use one of these options!
-##   toggle
+> Begin Commands With DFM, then use one of these options!
+#   toggle
 ###        fromKey
             F1 1(true), 0(false)
             F5 1, 2, 0
@@ -7,10 +7,10 @@
             controls
                 jump
                    <KeyCode>
-##    disableButton
+#    disableButton
 ###        options
             1(true), 0(false)
-##    openGui
+#    openGui
 ###        inventory
 ###        chest
 ###        craftingTable
